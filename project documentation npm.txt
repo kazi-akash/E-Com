@@ -1,0 +1,9 @@
+npm install dotenv //config for getting data from database in serverside
+
+npm install mongoose //for mongofb in serverside
+
+npm i colors //for color the console in serverside
+
+npm install bcryptjs //obtain secure random numbers
+
+npm install --save express-async-handler  //to handle anysnc await req 
